@@ -1,0 +1,10 @@
+{
+	"user": "Gomaink",
+	"repo": "a_tutorial",
+	"tag": "0.0.1",
+	"entry": "test.pwn",
+	"output": "gamemodes/test.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib"
+	]
+}
