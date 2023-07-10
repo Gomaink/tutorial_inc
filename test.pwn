@@ -11,8 +11,8 @@ public OnGameModeInit()
     //Creating a new tutorial
     Tutorial::Create(TUTORIAL_REGISTER);
     //Adding new locations and text for each tutorial location
-    Tutorial::AddLocal(TUTORIAL_REGISTER, 1, "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque pen", 366.1500, 1762.8300, 158.9100, 365.3100, 1763.3800, 158.0600);
-    Tutorial::AddLocal(TUTORIAL_REGISTER, 2, "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque pen", 331.2362, 1549.4685, 120.5536, 330.5472, 1548.7384, 119.9235);
+    Tutorial::AddLocal(TUTORIAL_REGISTER, 1, "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque pe", 366.1500, 1762.8300, 158.9100, 365.3100, 1763.3800, 158.0600);
+    Tutorial::AddLocal(TUTORIAL_REGISTER, 2, "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque pe", 331.2362, 1549.4685, 120.5536, 330.5472, 1548.7384, 119.9235);
     return 1;
 }
 
