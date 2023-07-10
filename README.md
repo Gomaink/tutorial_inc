@@ -22,6 +22,16 @@ Include in your code and begin using the library:
 #include <a_tutorial>
 ```
 
+## Functions 
+
+```pawn
+Tutorial::Create(tutorialid)
+Tutorial::Delete(tutorialid)
+Tutorial::AddLocal(tutorialid, localid, msg[MAX_TUTORIAL_CHARS], Float:cposx, Float:cposy, Float:cposz, Float:clookx, Float:clooky, Float:clookz)
+Tutorial::Init(playerid, const tutorialid, const callback[])
+Tutorial::Stop(playerid) 
+```
+
 ## Usage
 
 ```pawn
