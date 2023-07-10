@@ -74,7 +74,7 @@ public OnRegisterTutorialEnd(playerid)
     SetPlayerFacingAngle(playerid, 318.4364);
     return 1;
 }
--->```
+```
 
 ## Testing
 
