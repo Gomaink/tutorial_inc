@@ -6,7 +6,7 @@
 This library allows you to create tutorials dynamically and quickly.
 -->
 
-![](https://i.imgur.com/wDal7si.png)
+![](https://i.imgur.com/YnAgCK8.png)
 
 ## Installation
 
