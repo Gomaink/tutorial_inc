@@ -2,9 +2,9 @@
 
 [![sampctl](https://img.shields.io/badge/sampctl-a_tutorial-2f2f2f.svg?style=for-the-badge)](https://github.com/Gomaink/a_tutorial)
 
-<!--
+
 This library allows you to create tutorials dynamically and quickly.
--->
+
 
 ![](https://i.imgur.com/YnAgCK8.png)
 
