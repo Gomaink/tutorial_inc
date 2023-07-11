@@ -31,7 +31,7 @@ enum tutorialData {
 	Float:tutorialCLookY[MAX_LOCALS],
 	Float:tutorialCLookZ[MAX_LOCALS]
 } new TutorialData[MAX_TUTORIALS][tutorialData];
-new bool:TutorialPassed[MAX_PLAYERS][MAX_LOCALS], Tutorial[MAX_PLAYERS], TutorialTimer[MAX_PLAYERS], TutorialMessage[MAX_TUTORIALS][MAX_LOCALS];
+new bool:TutorialPassed[MAX_PLAYERS][MAX_LOCALS], Tutorial[MAX_PLAYERS], TutorialTimer[MAX_PLAYERS], TutorialMessage[MAX_TUTORIALS][MAX_LOCALS][MAX_TUTORIAL_CHARS];
 
 public OnPlayerDisconnect(playerid, reason)
 {
